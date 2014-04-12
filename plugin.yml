@@ -1,0 +1,16 @@
+name: ITeleporter
+version: 1.0 Beta
+main: me.TigerReborn.ITeleporter.ITeleporter
+commands:
+  tprequestaccept:
+    aliases: [tpra, tpraccept]
+    permission: iteleporter.tpra
+  tprequestdeny:
+    aliases: [tprdeny, tprd]
+    permission: iteleporter.tprd
+  tphererequest:
+    aliases: [tprh, tprhere]
+    permission: iteleporter.tprh
+  tprequest:
+    aliases: [tpr, tpreq]
+    permission: iteleporter.tpr
